@@ -1,0 +1,66 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --rguzman24-3-desktop-headings-heading-4: Evogria;
+    --rguzman24-3-desktop-body-highlight-standard: Roboto;
+    
+    /* font sizes */
+    --rguzman24-3-desktop-headings-heading-5-size: 20px;
+    --rguzman24-3-desktop-headings-heading-4-size: 26px;
+    --rguzman24-3-desktop-body-highlight-standard-size: 18px;
+    --rguzman24-3-desktop-body-caption-bold-size: 14px;
+    --rguzman24-3-desktop-body-content-bold-size: 16px;
+    --rguzman24-3-mobile-body-caption-accent-size: 12px;
+    --rguzman24-3-desktop-headings-display-3-size: 64px;
+    --rguzman24-3-desktop-headings-display-2-size: 96px;
+    --rguzman24-3-desktop-body-feature-standard-size: 24px;
+    
+    /* Colors */
+    --base-base-white: #fafafa;
+    --primary-primary: #1a1a18;
+    --primary-primary1000: #30302c;
+    --secondary-amarillo: #ffd900;
+    --primary-primary500: #9b9b92;
+    --primary-primary700: #717168;
+    --secondary-secondary200: #e5e1c9;
+    --secondary-secondary: #f2f0e4;
+    
+    /* Spacing */
+    --spacing-sm: 10px;
+    --spacing-base: 16px;
+    --spacing-s: 6px;
+    
+    /* Gaps */
+    --gap-1165xl: 1184px;
+    --gap-lgi: 19px;
+    --gap-sm: 14px;
+    --gap-3xl: 22px;
+    --gap-5xs: 8px;
+    --gap-base: 16px;
+    --gap-5xl: 24px;
+    --gap-213xl: 232px;
+    --gap-253xl: 272px;
+    --gap-97xl: 116px;
+    --gap-xs: 12px;
+    --gap-65xl: 84px;
+    --gap-9xs: 4px;
+    
+    /* Paddings */
+    --padding-7xs: 6px;
+    
+    /* Border radiuses */
+    --br-3xs: 10px;
+    --br-base: 16px;
+    --br-7xs: 6px;
+    
+
+    scroll-behavior: smooth;
+
+}
