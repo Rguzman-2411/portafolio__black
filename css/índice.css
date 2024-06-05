@@ -911,7 +911,7 @@
     color: var(--secondary-amarillo);
     font-family: var(--rguzman24-3-desktop-headings-heading-5);
     width: 310px; /* Ajusta el ancho según sea necesario */
-    height: auto; /* La altura se ajustará automáticamente al contenido */
+    height: 6px; /* La altura se ajustará automáticamente al contenido */
 }
 
 
