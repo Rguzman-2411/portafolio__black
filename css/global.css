@@ -1,7 +1,8 @@
 @font-face {
     font-family: Evogria;
     src: url(./tipografia/Evogria.otf);
-    
+    font-weight: bold;
+    font-style: bold;
 
 }
 
