@@ -6,6 +6,15 @@
 
 }
 
+@font-face {
+    font-family: Evogria;
+    src: url(./tipografia/EvogriaItalic.otf);
+    font-weight: italic;
+    font-style: italic;
+
+}
+
+
 
 
 body {
